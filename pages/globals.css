@@ -1,0 +1,98 @@
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply text-black-500 font-sans;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1290px;
+  padding: 0 16px;
+}
+
+button {
+  @apply bg-[#005099] rounded-[5px] text-base py-3 px-10 w-fit font-medium text-white duration-150;
+}
+button.white {
+  @apply bg-white text-black-500;
+}
+button.transperent {
+  @apply bg-transparent border border-white;
+}
+button.blue {
+  @apply bg-transparent border border-blue-400 text-blue-400;
+}
+button:hover {
+  @apply opacity-80;
+}
+a {
+  @apply duration-150;
+}
+a:hover {
+  @apply opacity-80;
+}
+h1 {
+  @apply font-semibold text-[38px] max-sm:text-[28px] leading-[38px] max-sm:leading-[28px] max-sm:text-center;
+}
+.text {
+  @apply text-base font-light opacity-50;
+}
+strong {
+  @apply font-normal;
+}
+.burgerButton {
+  @apply w-[38px] h-[28px] p-[5px] hover:bg-transparent;
+}
+.burger {
+  @apply w-full h-[2px] relative;
+}
+.burger.active {
+  @apply bg-transparent;
+}
+.burger::after {
+  width: 100%;
+  height: 2px;
+  content: "";
+  transition: ease 0.3s;
+  position: absolute;
+  top: -10px;
+  left: 0;
+}
+.burger.active::after {
+  transform: rotate(45deg);
+  top: 0;
+}
+.burger::before {
+  width: 100%;
+  height: 2px;
+  content: "";
+  transition: ease 0.3s;
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+}
+.burger.active::before {
+  transform: rotate(-45deg);
+  top: 0;
+}
+
+.burger.active span {
+  @apply hidden;
+}
+.burgerContent {
+  height: calc(100vh - 78px);
+}
+input[type="checkbox"] {
+  width: 28px;
+  height: 28px;
+  border-radius: 3px !important;
+  background: #005099 !important;
+}
+
+.menuContent {
+  min-height: calc(100vh - 80px);
+}

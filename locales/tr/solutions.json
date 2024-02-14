@@ -1,0 +1,58 @@
+{
+  "banner-title1": "Siz isteyin, biz yapalım.",
+  "banner-description1": "İhtiyaçlarınız doğrultusunda, özel çözümler üretiyoruz.",
+  "info-text1": "MRF, çeşitli pazarlardaki etkinliğini artırmak üzere önemli bir değişim sürecinden geçmeye devam etmekte ve çelik ürünlerin tasarımında/üretiminde uzmanlaşmış ve güvenilir partnerler aramaktadır.",
+  "info-title1": "Hangi sektörlere yönelik çözümler sunuyoruz?",
+  "info-menu1": {
+    "item1": "Endüstri",
+    "item2": "Karoser",
+    "item3": "Otomotiv",
+    "item4": "Gıda",
+    "item5": "Denizcilik",
+    "item6": "Jeneratör"
+  },
+  "info-menu2": {
+    "item1": "1966’dan beri üretimde",
+    "item2": "Güvenilir ve garantili",
+    "item3": "Kalıplama, prototip oluşturma ve araç edinme"
+  },
+  "info-text3": "AISI 304 tip çeliğin işlenebilmesi için gerekli makine gücüne sahip olan MRF,  bu sayede müşteri ve partnerlerine çeşitli opsiyonlar sunabilmektedir",
+  "info-menu3": {
+    "item1": {
+      "title": "Lazer kesim",
+      "description": "3000x1500 mm’ye kadar levhalar <br/> Maksimum 15 mm kalınlıkta paslanmaz çelikler <br/>Maksimum 25 mm kalınlıkta karbon çelikler"
+    },
+    "item2": {
+      "title": "İşleme",
+      "description": "Makine merkezleri <br/> CNC torna tezgahları <br/> Cilalı parlatma"
+    },
+    "item3": {
+      "title": "Katlama",
+      "description": "4280 mm’ye kadar 220 Tm katlayıcı"
+    },
+    "item4": {
+      "title": "Kaynak",
+      "description": "TIG / GTAW / MIG / MAG"
+    },
+    "item5": {
+      "title": "Damgalama",
+      "description": "30 Tm’den 300 Tm'ye kadar presler"
+    },
+    "item6": {
+      "title": "Yüzey kaplama(kumlama ve parlatma)",
+      "description": "Mat yüzey kaplaması"
+    }
+  },
+  "info-title4": "Neden MRF?",
+  "info-description4": "MRF, özel ihtiyaçlar doğrultusunda şekillenen tasarım fikirlerinin ilk aşamasından başlayarak, seri üretime kadar siz müşterilerimize eşlik eder.",
+  "info-menu4": {
+    "item1": "Geliştirme, tasarım ve üretim",
+    "item2": "Esneklik ve uyum sağlama",
+    "item3": "Teknik beceri ve deneyim",
+    "item4": "Uluslararasılaşma",
+    "item5": "Müşteri odaklı olma",
+    "item6": "Yenilik kültürü"
+  },
+  "blue-banner-text": "Özel bir talebiniz mi var?",
+  "blue-banner-button": "Bize ulaşın"
+}

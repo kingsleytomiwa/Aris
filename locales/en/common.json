@@ -1,0 +1,30 @@
+{
+  "header": {
+    "link1": "Locks",
+    "link2": "Hinges",
+    "link3": "Accessories",
+    "link4": "Spare parts",
+    "inputSearch": "I’m looking for…",
+    "nav": {
+      "link1": "About ARIS",
+      "link2": "About MRF",
+      "link3": "Industrial co-development",
+      "link4": "People",
+      "link5": "Contact",
+      "link6": "Products"
+    }
+  },
+  "footer-title": "Copyright 2022 MRF Mecanizados Rodríguez Fernández S.L.",
+  "footer-description": "Design and manufacture of components and accesories for bodywork and industrial apps.",
+  "footer-links-title": {
+    "title1": "About",
+    "title2": "Catalog",
+    "title3": "Contact"
+  },
+  "navigation": {
+    "link1": "Home",
+    "link2": "Contacts",
+    "link3": "Industrial co-development",
+    "link4": "Our team"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Bizimle İletişime Geçin",
+  "form1": {
+    "label": "Ad",
+    "placeholder": "Örneğin, Mehmet"
+  },
+  "form2": {
+    "label": "Soyad",
+    "placeholder": "Örneğin, Karahanlı"
+  },
+  "form3": {
+    "label": "Ülke",
+    "placeholder": "Örneğin, Türkiye"
+  },
+  "form4": {
+    "label": "Şehir",
+    "placeholder": "Örneğin, Antalya"
+  },
+  "form5": {
+    "label": "Telefon numarası",
+    "placeholder": "Örneğin, +90 212 555 1212"
+  },
+  "form6": {
+    "label": "Konu",
+    "placeholder": "Örneğin, İş birliği"
+  },
+  "form7": {
+    "label": "Soru veya talebiniz"
+  },
+  "button": "Gönder"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Contact Us",
+  "form1": {
+    "label": "First name",
+    "placeholder": "Example, Bohdan"
+  },
+  "form2": {
+    "label": "Last name",
+    "placeholder": "Example, Smith"
+  },
+  "form3": {
+    "label": "Country",
+    "placeholder": "Example, Turkey"
+  },
+  "form4": {
+    "label": "State",
+    "placeholder": "Example, Antalya"
+  },
+  "form5": {
+    "label": "Phone number",
+    "placeholder": "Example, +90 212 555 1212"
+  },
+  "form6": {
+    "label": "Subject",
+    "placeholder": "Example, Cooperation"
+  },
+  "form7": {
+    "label": "Query"
+  },
+  "button": "Send your request"
+}

@@ -1,0 +1,58 @@
+{
+  "banner-title1": "Solutions for your needs",
+  "banner-description1": "We offer bespoke solutions according to your needs",
+  "info-text1": "MRF is continuing to undergo an important diversification into different and diverse markets, and we are actively searching forpartners expert in the design of steel products and with the capacity and proximity to co-design reliable solutions.",
+  "info-title1": "We offer solutions for sectors such as:",
+  "info-menu1": {
+    "item1": "Industrial sector",
+    "item2": "Bodywork",
+    "item3": "Automotive",
+    "item4": "Food machinery",
+    "item5": "Nautica",
+    "item6": "Electric generators"
+  },
+  "info-menu2": {
+    "item1": "Steel manufacturers since 1966",
+    "item2": "Reliability and Warranty",
+    "item3": "Tooling, prototyping and own tools"
+  },
+  "info-text3": "At MRF we can manufacture any solution that requires a very close level of co-operation and reliability, thanks to the fact that we have machinery for laser cutting, bending, stamping, welding and surface finishing (polishing and shot blasting) for AISI 304 steel:",
+  "info-menu3": {
+    "item1": {
+      "title": "Laser cut",
+      "description": "Sheets up to 3,000 x 1,500 mm <br/> Maximum thickness in stainless steel: 15 mm <br/> Maximum thickness in carbon steel: 25 mm"
+    },
+    "item2": {
+      "title": "Machining",
+      "description": "Machining centers <br/> CNC lathes <br/> Polished gloss"
+    },
+    "item3": {
+      "title": "Folding",
+      "description": "220 Tm folder and up to 4,280 mm"
+    },
+    "item4": {
+      "title": "Welding",
+      "description": "TIG / GTAW / MIG / MAG welding"
+    },
+    "item5": {
+      "title": "Stamping",
+      "description": "Presses from 30 to 300 Tm"
+    },
+    "item6": {
+      "title": "Surface finishes",
+      "description": "Matte finish"
+    }
+  },
+  "info-title4": "Why MRF?",
+  "info-description4": "Starting from a design idea adapted to the needs of the client, at MRF we accompany you from the design phase, through to prototypes and tooling to serial manufacturing.",
+  "info-menu4": {
+    "item1": "Own development, design and manufacture",
+    "item2": "Flexibility and adapting to different needs",
+    "item3": "Technical ability and experience",
+    "item4": "High degree of internationalization",
+    "item5": "Customer oriented: by listening carefully",
+    "item6": "A culture of Innovation"
+  },
+  "blue-banner-text": "Do you have a specific project or need?",
+  "blue-banner-button": "More information"
+}

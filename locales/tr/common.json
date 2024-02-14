@@ -1,0 +1,30 @@
+{
+  "header": {
+    "link1": "Kilitler",
+    "link2": "Menteşeler",
+    "link3": "Aksesuarlar",
+    "link4": "Yedek parçalar",
+    "inputSearch": "Ne aramıştınız?",
+    "nav": {
+      "link1": "Biz kimiz?",
+      "link2": "MRF’ye dair",
+      "link3": "Endüstrimiz",
+      "link4": "Ekibimiz",
+      "link5": "İletişim",
+      "link6": "Ürünler"
+    }
+  },
+  "footer-title": "Copyright ARİS Makine Otomotiv İnşaat Sanayi ve Ticaret Limited Şirketi",
+  "footer-description": "Üstyapı ve endüstriyel uygulamalar için aksesuar ve bileşenlerin tasarımı ve üretimi.",
+  "footer-links-title": {
+    "title1": "Hakkımızda",
+    "title2": "Katalog",
+    "title3": "İletişim"
+  },
+  "navigation": {
+    "link1": "Anasayfa",
+    "link2": "İletişim",
+    "link3": "Endüstrimiz",
+    "link4": "Endüstrimiz"
+  }
+}
